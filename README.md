@@ -65,7 +65,7 @@ Located in the `assets/screenshots/` folder. Topology image and installation log
 ## 📚 Related Repositories
 
 - [`residential-network-architecture`](https://github.com/Allen-Bartley/residential-network-architecture) – Physical home network layout with ISP, fiber backbone, and endpoint strategy
-- [`drive-cloning-migration`](https://github.com/Allen-Bartley/drive-cloning-migration) – Disk prep and recovery workflows used before and after VM configuration
+- [`hardware-drive-cloning`](https://github.com/Allen-Bartley/hardware-drive-cloning) – Disk prep and recovery workflows used before and after VM configuration
 
 ---
 
