@@ -16,6 +16,8 @@ This document outlines system-level refinements applied to the `WIN11-EDU` virtu
 
 > These changes improve local-only search behavior, reduce telemetry, and remove voice assistant overhead.
 
+> In addition to core security enhancements, registry-level hardening was applied to remove web-linked clutter from Start menu searches. This improves local application launching speed and creates a focused interface environment across both lab VMs and personal endpoints. The intent reflects an operational mindset prioritizing clarity, privacy, and user efficiency.
+
 ---
 
 ## 🧭 UI Customization
